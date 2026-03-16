@@ -1,6 +1,6 @@
 # lockalista_pt
 
-A new Flutter project.
+this is a prototype of our capstone project 
 
 ## Getting Started
 
